@@ -1,0 +1,11 @@
+git clone url --> local clone
+
+git status --> to know the chnages
+
+git add .  --> stageing env
+
+git commit -m "git commands"
+
+git push
+
+branches
