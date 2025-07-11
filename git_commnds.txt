@@ -11,3 +11,7 @@ git push
 branches
 
 git pull --> to update local repo
+
+git restore . or file name ( before git add .)
+
+git restore --staged . or file nmane (after git add .)
