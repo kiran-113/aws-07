@@ -9,3 +9,5 @@ git commit -m "git commands"
 git push
 
 branches
+
+git pull --> to update local repo
