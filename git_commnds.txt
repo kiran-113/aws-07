@@ -15,3 +15,9 @@ git pull --> to update local repo
 git restore . or file name ( before git add .)
 
 git restore --staged . or file nmane (after git add .)
+
+git branch branch_name ( creates a branch but wont switch to the new branch)  git switch branch_name to switch to different branches
+
+git checkout -b branch-name ( creates new branch and switches to new branch)
+
+git branch --> to list the branches
