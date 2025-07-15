@@ -21,3 +21,5 @@ git branch branch_name ( creates a branch but wont switch to the new branch)  gi
 git checkout -b branch-name ( creates new branch and switches to new branch)
 
 git branch --> to list the branches
+
+git fetch --> fetch the details of update
